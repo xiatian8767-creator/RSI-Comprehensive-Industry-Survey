@@ -1,0 +1,23 @@
+# WorkBuddy project data and build intermediates (not part of the survey)
+.workbuddy/
+
+# Python / OS / editor junk
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Never commit credentials
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+.env
+.env.*
+*token*.json
+*secret*.json

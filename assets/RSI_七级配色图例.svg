@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1560" height="250" viewBox="0 0 1560 250">
+<rect width="1560" height="250" fill="#FFFFFF"/>
+<text x="40" y="48" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="21" font-weight="700" fill="#23303E">RSI 七级分类 · 统一浅色渐变配色规范</text>
+<text x="40" y="76" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="12.5" fill="#6B7987">九个领域车道图共用此配色；颜色只表示 RSI 分级递进，不代表性能数值。</text>
+<rect x="40" y="100" width="188" height="56" rx="12" fill="#E8F0FE" stroke="#A9C4ED" stroke-width="1.8"/>
+<text x="54" y="124" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#2C3947">L1  程序与系统改进</text>
+<text x="54" y="144" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="11.5" fill="#6B7987">fill #E8F0FE</text>
+<rect x="250" y="100" width="188" height="56" rx="12" fill="#E2F2F2" stroke="#A3D0CE" stroke-width="1.8"/>
+<text x="264" y="124" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#2C3947">L2  上下文与记忆进化</text>
+<text x="264" y="144" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="11.5" fill="#6B7987">fill #E2F2F2</text>
+<rect x="460" y="100" width="188" height="56" rx="12" fill="#E8F3DF" stroke="#B2D59E" stroke-width="1.8"/>
+<text x="474" y="124" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#2C3947">L3  技能进化</text>
+<text x="474" y="144" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="11.5" fill="#6B7987">fill #E8F3DF</text>
+<rect x="670" y="100" width="188" height="56" rx="12" fill="#F3F1D6" stroke="#D0CC90" stroke-width="1.8"/>
+<text x="684" y="124" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#2C3947">L4  Agent 机制进化</text>
+<text x="684" y="144" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="11.5" fill="#6B7987">fill #F3F1D6</text>
+<rect x="880" y="100" width="188" height="56" rx="12" fill="#FBEBD4" stroke="#E3BE88" stroke-width="1.8"/>
+<text x="894" y="124" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#2C3947">L5  基座模型进化</text>
+<text x="894" y="144" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="11.5" fill="#6B7987">fill #FBEBD4</text>
+<rect x="1090" y="100" width="188" height="56" rx="12" fill="#F8DFD7" stroke="#DAA899" stroke-width="1.8"/>
+<text x="1104" y="124" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#2C3947">L6  进化方法自身的改进</text>
+<text x="1104" y="144" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="11.5" fill="#6B7987">fill #F8DFD7</text>
+<rect x="1300" y="100" width="188" height="56" rx="12" fill="#F1DDF0" stroke="#C6A2C4" stroke-width="1.8"/>
+<text x="1314" y="124" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#2C3947">L7  稳定的递归自我改进</text>
+<text x="1314" y="144" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="11.5" fill="#6B7987">fill #F1DDF0</text>
+<text x="40" y="196" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="12.5" fill="#4B5B6B">冷色 → 暖色 → 浅紫红：L1 程序/系统 → L2 上下文/记忆 → L3 技能 → L4 Agent 机制 → L5 基座模型 → L6 进化方法 → L7 稳定递归</text>
+<text x="40" y="224" font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC','Segoe UI',sans-serif" font-size="11.5" fill="#8B98A5">L7 需跨多代自主闭环与持续提升的实证；本轮调研未对任何论文标注 L7。多分级论文以主色填充 + 右侧窄色段表示。</text>
+</svg>
